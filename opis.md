@@ -1,0 +1,1 @@
+repozytorium zdalne to miejsce przechowywania plikow projektu na serwerze np. github. Dzieki niemu mozna udostepniac pliki innym osobom, przechowywac historie zmian.
